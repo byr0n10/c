@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="UTF-8">
@@ -118,5 +118,4 @@
         </div>
       </div>
     </main>
-  </body>
-</html>
+  
